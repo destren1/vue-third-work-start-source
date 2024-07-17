@@ -1,2 +1,2 @@
 export { default as AppLayout } from "./AppLayout.vue";
-export { default as HomeView } from "./HomeView.vue";
+export { default as HomeView } from "../views/HomeView.vue";
